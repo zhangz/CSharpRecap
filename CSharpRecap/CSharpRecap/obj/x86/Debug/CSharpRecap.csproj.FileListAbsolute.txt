@@ -1,0 +1,6 @@
+D:\My Documents\Visual Studio 2010\Projects\CSharpRecap\CSharpRecap\bin\Debug\CSharpRecap.exe.config
+D:\My Documents\Visual Studio 2010\Projects\CSharpRecap\CSharpRecap\bin\Debug\CSharpRecap.exe
+D:\My Documents\Visual Studio 2010\Projects\CSharpRecap\CSharpRecap\bin\Debug\CSharpRecap.pdb
+D:\My Documents\Visual Studio 2010\Projects\CSharpRecap\CSharpRecap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\CSharpRecap\CSharpRecap\obj\x86\Debug\CSharpRecap.exe
+D:\My Documents\Visual Studio 2010\Projects\CSharpRecap\CSharpRecap\obj\x86\Debug\CSharpRecap.pdb
